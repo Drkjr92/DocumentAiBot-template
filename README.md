@@ -5,7 +5,8 @@ Question answering in this context refers to question answering over your docume
 response will contain the answer to your question, based on the content of the documents.
 
 ### Input Document: 
-![image](https://github.com/Drkjr92/DocumentAiBot-template/assets/37879461/ef0c5bd7-ba89-4e4f-8c88-7e658c76eff0)
+![Screenshot 2023-05-27 154529](https://github.com/Drkjr92/DocumentAiBot-template/assets/37879461/973971bd-d733-4356-b0a3-f7d862aaaec1)
+
 
 ### Query 1:
 ```

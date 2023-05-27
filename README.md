@@ -27,6 +27,7 @@ C:\Users\user\source\repos\DocumentAIBot-template> node .\searchpinecone.js
 ```
 🧑‍🦱 Query: Which type of beverage has the highest alcohol content?
 🤖 Response: Vodka, as it contains .50 ounces of pure alcohol per 1 ounce serving.
+
 ````
 ```
     Response: Vodka, as it contains .50 ounces of pure alcohol per 1 ounce serving.

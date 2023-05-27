@@ -8,7 +8,7 @@ import { PineconeStore } from "langchain/vectorstores/pinecone";
 dotenv.config();
 
 /* Make sure you have Pincecone DB set up already AND have data stored in vectors. You can create the pinecone db via api but, it's much easier to
-do it via UI imo.*/
+do it via UI imo. After you created your pinecone db, go to loadindex.js and load in the datas. */
 /// https://www.pinecone.io/docs/indexes/#create-an-index
 const client = new PineconeClient();
 await client.init({

@@ -10,28 +10,26 @@ response will contain the answer to your question, based on the content of the d
 ### Query 1:
 ```
 C:\Users\user\source\repos\DocumentAIBot-template> node .\searchpinecone.js
-
-Query: what is this document about?
-Response :robot: :  This document is about the effects of alcohol on pilot performance, including tolerance, impairment, and hangovers. 
 ```
+🧑‍🦱 Query: what is this document about?
+🤖 Response:  This document is about the effects of alcohol on pilot performance, including tolerance, impairment, and hangovers. 
 
 ### Query 2:
 ```
 C:\Users\user\source\repos\DocumentAIBot-template> node .\searchpinecone.js
-
-Query: List me the effects alcohol has on a pilot
-Response :robot: :  Alcohol impairs the pilot’s ability to perform the required tasks during the operation of an aircraft. It can cause drowsiness, slowed reflexes, impaired judgment, and distorted vision and hearing. It also increases the risk of accidents and other dangerous situations.
 ```
+🧑‍🦱 Query: List me the effects alcohol has on a pilot
+🤖 Response:  Alcohol impairs the pilot’s ability to perform the required tasks during the operation of an aircraft. It can cause drowsiness, slowed reflexes, impaired judgment, and distorted vision and hearing. It also increases the risk of accidents and other dangerous situations.
+
 ### Query 3:
 ```
 C:\Users\user\source\repos\DocumentAIBot-template> node .\searchpinecone.js
-
-Query: Which type of beverage has the highest alcohol content?
-Response :robot: :  Vodka, as it contains .50 ounces of pure alcohol per 1 ounce serving.
 ```
-
+🧑‍🦱 Query: Which type of beverage has the highest alcohol content?
+🤖 Response: Vodka, as it contains .50 ounces of pure alcohol per 1 ounce serving.
 ````
 ```
+    Response: Vodka, as it contains .50 ounces of pure alcohol per 1 ounce serving.
 ❗ Notice! In query 3 how the ai bot was smart enough to digest the chart data as well! Pretty neat. 🧙‍♂️
 ```
 ````

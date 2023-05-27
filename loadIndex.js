@@ -24,7 +24,7 @@ transform data from a specific format into the Document format. */
 const loader = new PDFLoader(/* your pdf */);
 //const loader = new CSVLoader(/* your csv */); //example of another loader type
 const documents = await loader.load();
-console.log("documents: " + docs);
+console.log("documents: " + JSON.stringify(docs));
 
 var result = await PineconeStore.fromDocuments(documents, new OpenAIEmbeddings(), {
     pineconeIndex,
